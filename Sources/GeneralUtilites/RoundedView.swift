@@ -1,11 +1,9 @@
 //
-//  RoundedView.swift
-//  
+//  ContentView.swift
+//  One Pass
 //
-//  Created by Craig Clayton on 11/17/19.
-//  Copyright © 2019 Cocoa Academy. All rights reserved.
+//  Created by Aly Fawzy on 25/01/2025.
 //
-
 import SwiftUI
 
 struct RoundedCorner: Shape {
